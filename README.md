@@ -5,9 +5,11 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayclk06&langs_count=3&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
+<br><br>
+```javascript
       const berkay = {
       code: [Javascript, HTML5, CSS, Python, Java],
-      tools: [Postman, Git, Pycharm, VS Code, IntelliJ],
+      tools: [Postman, Git, PyCharm, VScode, IntelliJ],
       awardsCertificates: {
                             name: "The Complete 2022 Web Development Bootcamp",
                             trainer: "App Brewery",
@@ -15,7 +17,7 @@
       training: [Javascript, React.js, SQL, MongoDB, EJS, Node.js, Python, Java, HTML5, CSS],
       inProgress: [Docker, Flutter]
     }
-
+```
 <!--
 **Berkayclk06/Berkayclk06** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
