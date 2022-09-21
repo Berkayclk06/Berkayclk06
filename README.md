@@ -1,4 +1,4 @@
-### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Berkay!
+### Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Berkay! <br> Click the stats to catch the mood.
 
 [![Berkay's GitHub stats](https://github-readme-stats.vercel.app/api?username=berkayclk06&theme=dark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)                     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=berkayclk06&langs_count=5&theme=dark)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 <!-- All credit for Top Langs is for https://github.com/anuraghazra/github-readme-stats
