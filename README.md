@@ -15,5 +15,5 @@ All credir for GitHub stats is for https://github.com/anuraghazra/github-readme-
                               },                 
             training: [Javascript, React.js, SQL, MongoDB, EJS, Node.js, Python, Java, HTML5, CSS],
             inProgress: [Python, Docker]
-    }
+            }
 ```
