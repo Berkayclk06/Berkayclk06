@@ -7,13 +7,13 @@ All credir for GitHub stats is for https://github.com/anuraghazra/github-readme-
 <br><br>
 ```javascript
       const berkay = {
-            code: [Python, Javascript, Java, HTML5, CSS],
+            code: [Python, Javascript, Java],
             tools: [PyCharm, Git, Postman , VScode, IntelliJ],
             awardsCertificates: {
                               name: "The Complete 2022 Web Development Bootcamp",
                               trainer: "App Brewery",
                               },                 
-            training: [Javascript, React.js, SQL, MongoDB, EJS, Node.js, Python, Java, HTML5, CSS],
+            training: [Javascript, React.js, SQL, MongoDB, EJS, Node.js, Python, Java, Flask],
             inProgress: [Python, Docker]
             }
 ```
