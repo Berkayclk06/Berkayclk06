@@ -10,8 +10,10 @@ All credir for GitHub stats is for https://github.com/anuraghazra/github-readme-
             code: [Python, Javascript, Java],
             tools: [PyCharm, Git, Postman , VScode, IntelliJ],
             awardsCertificates: {
-                              name: "The Complete 2022 Web Development Bootcamp",
-                              trainer: "App Brewery",
+                              {name: "The Complete 2022 Web Development Bootcamp",
+                              trainer: "App Brewery"},
+                              {name: "100 Days of Code: The Complete Python Pro Bootcamp for 2022",
+                              trainer: "App Brewery"}
                               },                 
             training: [Javascript, React.js, SQL, MongoDB, EJS, Node.js, Python, Java, Flask],
             inProgress: [Python, Docker]
